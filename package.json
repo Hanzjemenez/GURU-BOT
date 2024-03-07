@@ -1,5 +1,5 @@
 {
-    "name": "gurubot",
+    "name": "miku-md",
     "version": "2.0.0",
     "description": "Advanced WhatsApp Bot",
     "main": "index.js",
@@ -25,9 +25,9 @@
         "MD",
         "baileys-md"
     ],
-    "homepage": "https://github.com/Guru322/GURU-BOT",
+    "homepage": "https://github.com/Hanzjemenez/GURU-BOT",
     "author": {
-        "name": "GURU"
+        "name": "Hanz"
     },
     "repository": {
         "type": "git",
